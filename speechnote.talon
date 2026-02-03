@@ -1,0 +1,1 @@
+speech note: user.speech_note()
